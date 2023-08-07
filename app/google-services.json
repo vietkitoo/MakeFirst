@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311537249418",
+    "project_id": "datausermf",
+    "storage_bucket": "datausermf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311537249418:android:a204af1c3b38def3191173",
+        "android_client_info": {
+          "package_name": "com.example.makefirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311537249418-a1iotehmmaprpntadua2j1ct8nig18nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwdJW98878DwdYGfRzxHlO9zEmZ_zVDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311537249418-a1iotehmmaprpntadua2j1ct8nig18nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
